@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #262626;
-    background-color: #e6fff3;
+    background-color: #eef3ee;
 }
 
 html {
@@ -263,7 +263,7 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
 .download-section {
