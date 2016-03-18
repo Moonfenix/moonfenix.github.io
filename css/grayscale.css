@@ -92,10 +92,6 @@ a:focus {
     color: #fff;
 }
 
-.navbar-custom a.contacts-href{
-   color: #ef3d6b;
-}
-
 .navbar-custom .nav li a {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;

@@ -1,0 +1,14 @@
+.grey-text-block p {
+	text-align: center;
+	font:16px/1.5em Helvetica;
+	margin:0 0 26px;
+	color:#666;
+}
+
+.navbar-custom a.contacts-href{
+   color: #f43653;
+}
+
+.icons {
+	color: #bd2842;
+}
