@@ -12,3 +12,38 @@
 .icons {
 	color: #bd2842;
 }
+
+img.imgborder {
+    padding: 0px 0px 0px 0px; 
+    margin: 0px 0px 0px 0px; 
+    width: 200px;
+    height: 200px; 
+}
+
+img.imgborder:hover {
+    outline: 5px solid #222;
+    outline-offset: -5px;
+}
+
+img.imgborder-active {
+    outline: 5px solid #bd2842;
+    outline-offset: -5px;
+}
+
+img.imgborder-active:hover {
+    outline: 5px solid #b00928;
+    outline-offset: -5px;
+}
+
+.carousel-container {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
